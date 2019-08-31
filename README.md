@@ -8,7 +8,7 @@ There are 3 radars included, each has its own script:
 2. DHMZ Bilogora
 3. DHMZ Osijek
 
-Lisca can be used for Istria, much of central and mountainous Croatia.
+Lisca can be used for Istria, Gorski kotar and much of central Croatia.
 
 Bilogora can be used for all of mainland Croatia.
 
